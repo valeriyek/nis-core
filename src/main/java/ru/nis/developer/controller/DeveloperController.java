@@ -1,7 +1,7 @@
-package ru.nis.controller;
+package ru.nis.developer.controller;
 
-import ru.nis.domain.Developer;
-import ru.nis.service.DeveloperService;
+import ru.nis.developer.model.Developer;
+import ru.nis.developer.service.DeveloperService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

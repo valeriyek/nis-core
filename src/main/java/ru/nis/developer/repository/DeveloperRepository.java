@@ -1,6 +1,6 @@
-package ru.nis.repository;
+package ru.nis.developer.repository;
 
-import ru.nis.domain.Developer;
+import ru.nis.developer.model.Developer;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface DeveloperRepository extends JpaRepository<Developer, Long> {

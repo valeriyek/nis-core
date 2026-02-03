@@ -1,7 +1,7 @@
-package ru.nis.service;
+package ru.nis.developer.service;
 
-import ru.nis.domain.Developer;
-import ru.nis.repository.DeveloperRepository;
+import ru.nis.developer.model.Developer;
+import ru.nis.developer.repository.DeveloperRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

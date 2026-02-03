@@ -1,4 +1,4 @@
-package ru.nis.domain;
+package ru.nis.developer.model;
 
 import jakarta.persistence.*;
 
